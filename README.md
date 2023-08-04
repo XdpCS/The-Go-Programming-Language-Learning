@@ -20,3 +20,7 @@
 ## exercises
 
 该文件放置该书的课后练习
+
+## License
+
+The-Go-Programming-Language-Learning is under the [MIT](LICENSE). Please refer to LICENSE for more information.
