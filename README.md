@@ -1,4 +1,4 @@
-# The-Go-Programming-Language-Learning
+# the-go-programming-language-learning
 
 ![GitHub watchers](https://img.shields.io/github/watchers/XdpCs/The-Go-Programming-Language-Learning?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/XdpCs/The-Go-Programming-Language-Learning?style=social)
@@ -23,4 +23,4 @@
 
 ## License
 
-The-Go-Programming-Language-Learning is under the [MIT](LICENSE). Please refer to LICENSE for more information.
+the-go-programming-language-learning is under the [MIT](LICENSE). Please refer to LICENSE for more information.

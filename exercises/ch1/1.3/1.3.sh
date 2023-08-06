@@ -1,1 +1,1 @@
-go test -v echo_test.go -bench=.
+go test -bench=.
