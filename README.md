@@ -9,13 +9,13 @@
 
 ## demos
 
-该文件放置该书编写的例子
+该文件放置书中的例子
 
 ## notes
 
 该文件放置该书的笔记
 
-大家也可以通过[我的博客](https://xdpcs.github.io/)阅读
+大家也可以通过[我的博客](https://xdpcs.github.io/tags/gopl/)阅读
 
 ## exercises
 
